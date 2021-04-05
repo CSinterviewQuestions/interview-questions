@@ -1,0 +1,2 @@
+Can you describe a database to me as if i'm a 5 year-old?
+Can you describe what the event-loop is and how it works?
